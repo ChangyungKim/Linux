@@ -1,0 +1,22 @@
+!<thin>
+//                                              162       `
+debug_core.o/
+gdbstub.o/
+kdb/kdb_io.o/
+kdb/kdb_main.o/
+kdb/kdb_support.o/
+kdb/kdb_bt.o/
+kdb/gen-kdb_cmds.o/
+kdb/kdb_bp.o/
+kdb/kdb_debugger.o/
+kdb/kdb_keyboard.o/
+/0              0           0     0     644     432144    `
+/14             0           0     0     644     322912    `
+/25             0           0     0     644     289456    `
+/39             0           0     0     644     529440    `
+/55             0           0     0     644     315552    `
+/74             0           0     0     644     137984    `
+/88             0           0     0     644     8232      `
+/108            0           0     0     644     144304    `
+/122            0           0     0     644     125968    `
+/142            0           0     0     644     150368    `
